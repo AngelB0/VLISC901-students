@@ -9,3 +9,4 @@ Features
 - [ ] Agregar las entidades
 - [ ] Agregar las clases controller
 - [ ] Agregar las clases de servicio
+-nuevas implementaciones
